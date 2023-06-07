@@ -1,0 +1,4 @@
+...
+
+sensor: !include_dir_list sensors/
+template: !include_dir_list templates/
