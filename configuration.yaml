@@ -1,0 +1,3 @@
+...
+sensor: !include sensors/solplanet.yaml
+template: !include templates/solplanet.yaml
